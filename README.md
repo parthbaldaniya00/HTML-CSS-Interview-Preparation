@@ -37,45 +37,37 @@ No unnecessary frameworks. No shortcuts.
 
 ## 📂 Repository Structure
 
+```text
 html-css-interview-prep/
-│
 ├── 01-html-basics/
-│ ├── semantic-tags.html
-│ ├── forms.html
-│ └── html-interview-questions.md
-│
+│   ├── semantic-tags.html
+│   ├── forms.html
+│   └── html-interview-questions.md
 ├── 02-css-basics/
-│ ├── box-model.css
-│ ├── display-and-units.css
-│ └── css-fundamentals-notes.md
-│
+│   ├── box-model.css
+│   ├── display-and-units.css
+│   └── css-fundamentals-notes.md
 ├── 03-flexbox/
-│ ├── flex-center.html
-│ ├── navbar-flex.html
-│ └── flexbox-interview-questions.md
-│
+│   ├── flex-center.html
+│   ├── navbar-flex.html
+│   └── flexbox-interview-questions.md
 ├── 04-grid/
-│ ├── card-layout-grid.html
-│ └── grid-vs-flex.md
-│
+│   ├── card-layout-grid.html
+│   └── grid-vs-flex.md
 ├── 05-positioning/
-│ ├── sticky-header.html
-│ └── z-index-examples.html
-│
+│   ├── sticky-header.html
+│   └── z-index-examples.html
 ├── 06-responsive-design/
-│ ├── responsive-cards.html
-│ └── media-queries.md
-│
+│   ├── responsive-cards.html
+│   └── media-queries.md
 ├── 07-projects/
-│ ├── responsive-navbar/
-│ ├── login-form/
-│ ├── modal-popup/
-│ └── dashboard-layout/
-│
+│   ├── responsive-navbar/
+│   ├── login-form/
+│   ├── modal-popup/
+│   └── dashboard-layout/
 ├── 08-interview-coding-questions/
-│ ├── questions.md
-│ └── solutions/
-│
+│   ├── questions.md
+│   └── solutions/
 └── README.md
 
 
